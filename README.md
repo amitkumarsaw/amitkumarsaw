@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, i am Amit Kumar👋
 
-<!--
-**amit-immense/amit-immense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Amit Kumar
 
-Here are some ideas to get you started:
+#### Student, B.Tech. in Electronics and Computer Engineering (ECM)
+I am a student of B.Tech. in elecrtonics and computer science engineering (ECM).  
+I am a B.Tech. student at JBIET Hyderabad.  
+I am currently in my 5th semester.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Python is my base language
+- **Tic Tac Toe in python (console based, desktop application)**
+- **Expense manager app in python**
+
+
