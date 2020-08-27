@@ -1,4 +1,4 @@
-### Hi there, i am Amit Kumar👋
+### Hi there, i am Amit👋
 
 ## Amit Kumar
 
